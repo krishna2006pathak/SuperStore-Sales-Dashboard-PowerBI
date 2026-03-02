@@ -58,9 +58,12 @@ Power Query
 Time-Series Forecasting
 
 📷 Dashboard Preview
-![Overview](overview-dashboard.png.jpg)
 
-![Forecast](forecast-dashboard.png.jpg)
+ 🔹 Overview Page
+![Overview](overview-page.png)
+
+ 🔹 Forecast Page
+![Forecast](forecast-page.png)
 
 📌 Key Insights
 
