@@ -60,10 +60,10 @@ Time-Series Forecasting
 📷 Dashboard Preview
 
  🔹 Overview Page
-![Overview](overview-page.png)
+![Overview](overview-page.jpg)
 
  🔹 Forecast Page
-![Forecast](forecast-page.png)
+![Forecast](forecast-page.jpg)
 
 📌 Key Insights
 
